@@ -1,5 +1,5 @@
 /*
- * Copyright 2019 juzhongguoji
+ * Copyright 2019 gotp
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -25,8 +25,8 @@ import (
 	"net/url"
 	"strings"
 
-	config "github.com/juzhongguoji/access_server/config"
-	proto "github.com/juzhongguoji/access_server/service/proto"
+	config "github.com/gotp/access_server/config"
+	proto "github.com/gotp/access_server/service/proto"
 
 	glog "github.com/golang/glog"
 	//"github.com/golang/protobuf/jsonpb"
